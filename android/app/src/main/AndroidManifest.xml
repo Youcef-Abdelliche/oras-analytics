@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.oras_analytics">
    <application
-        android:label="oras_analytics"
+        android:label="Oras Analytics"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
